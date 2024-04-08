@@ -1,4 +1,4 @@
-# Tecnologías Exponenciales - TIC ORT - 2023
+# Tecnologías Exponenciales - TIC ORT - 2024
 
 ## Repo de la materia Tecnologías Exponenciales (Tecnología de la Información) de la especialización TIC ORT.
 
