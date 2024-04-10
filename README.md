@@ -21,7 +21,6 @@
 - [X] Clase 4: Listas
 - [X] Clase 5: Listas de Listas
 
-
 # Trabajos Practicos
 
-Proximamente
+- [x] Trabajo Práctico 1: Batalla Naval [Consigna](https://github.com/IgnacioPardo/Tecnologias_Exponenciales_2024/blob/main/Trabajo_Practico_Batalla_Naval.md)
