@@ -91,9 +91,9 @@ Leer el archivo ```usuarios.csv``` y obtener un DataFrame con los datos.
 
 a. Obtener una Serie con los nombres de todos los usuarios.
 
-b. Obtener una Serie con los nombres de todos los usuarios que tengan edad menor al promedio de edad.
+b. Obtener el promedio de edad de todos los usuarios.
 
-c. Obtener el promedio de edad de todos los usuarios.
+c. Obtener una Serie con los nombres de todos los usuarios que tengan edad menor al promedio de edad.
 
 d. Graficar las edades usando `matplotlib.pyplot`
 
