@@ -1,2 +1,11 @@
 
 .DS_Store
+/TP_Spotify/Spotify Extended Streaming History
+TP_Spotify/StreamingHistory_music_0.json
+TP_Spotify/StreamingHistory_podcast_0.json
+TP_Spotify/data.ipynb
+TP_Spotify/data_ext.ipynb
+TP_Spotify/res.ipynb
+TP_Spotify/res_ext.ipynb
+TP_Spotify/.cache
+.cache
