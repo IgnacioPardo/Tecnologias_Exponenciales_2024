@@ -38,7 +38,7 @@ Ademas, se deben plantear al menos 3 preguntas adicionales y responderlas utiliz
 
 ## 🎶 Challenge
 
-Utilizando la API de Spotify a traves de la libreria [`spotipy`](https://spotipy.readthedocs.io/en/2.23.0_a/) obtener información adicional de las canciones y/o artistas. Por ejemplo, se puede obtener el género de la canción, una sample de 30 segundos de la canción, imagen de portada para usar en las visualizaciones, etc. Ademas se puede solicitar por cada cancion un set de "audio_features" que incluye información como la _energía_, el _tempo_, y la _danceability_ de la canción entre otros. Sugerencia, no solicitar la información de todas las canciones del dataset, ya que la API de Spotify tiene un límite de requests por minuto. Solicitar solo de algunas canciones como por ejemplo las 10 canciones más escuchadas.
+Utilizando la API de Spotify a traves de la libreria [`spotipy`](https://spotipy.readthedocs.io/en/2.24.0/) obtener información adicional de las canciones y/o artistas. Por ejemplo, se puede obtener el género de la canción, una sample de 30 segundos de la canción, imagen de portada para usar en las visualizaciones, etc. Ademas se puede solicitar por cada cancion un set de "audio_features" que incluye información como la _energía_, el _tempo_, y la _danceability_ de la canción entre otros. Sugerencia, no solicitar la información de todas las canciones del dataset, ya que la API de Spotify tiene un límite de requests por minuto. Solicitar solo de algunas canciones como por ejemplo las 10 canciones más escuchadas.
 
 ## Algunas consideraciones a tener en cuenta
 
