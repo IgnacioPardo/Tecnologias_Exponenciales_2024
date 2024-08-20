@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El objetivo de este trabajo es realizar un análisis exploratorio de un dataset de Spotify. El mismo contiene el historial de reproducciones de un usuario de Spotify durante un año. El dataset se encuentra en el archivo `StreamingHistory_Extended.csv` [disponible aquí](https://github.com/IgnacioPardo/Tecnologias_Exponenciales_2024/blob/main/TP%20Spotify/StreamingHistory_Extended.csv).
+El objetivo de este trabajo es realizar un análisis exploratorio de un dataset de Spotify. El mismo contiene el historial de reproducciones de un usuario de Spotify. El dataset se encuentra en el archivo `StreamingHistory_Extended.csv` [disponible aquí](https://github.com/IgnacioPardo/Tecnologias_Exponenciales_2024/tree/main/TP_Spotify).
 
 Para realizar el análisis, se debe utilizar Python y las herramientas vistas en clase. En particular Pandas y Matplotlib. Opcionalmente se pueden utilizar otras herramientas como Seaborn.
 
@@ -38,7 +38,7 @@ Ademas, se deben plantear al menos 3 preguntas adicionales y responderlas utiliz
 
 ## 🎶 Challenge
 
-Utilizando la API de Spotify a traves de la libreria [`spotipy`](https://spotipy.readthedocs.io/en/2.23.0_a/) obtener información adicional de las canciones y/o artistas. Por ejemplo, se puede obtener el género de la canción, una sample de 30 segundos de la canción, imagen de portada para usar en las visualizaciones, etc. Ademas se puede solicitar por cada cancion un set de "audio_features" que incluye información como la _energía_, el _tempo_, y la _danceability_ de la canción entre otros. Sugerencia, no solicitar la información de todas las canciones del dataset, ya que la API de Spotify tiene un límite de requests por minuto. Solicitar solo de algunas canciones como por ejemplo las 10 canciones más escuchadas.
+Utilizando la API de Spotify a traves de la libreria [`spotipy`](https://spotipy.readthedocs.io/en/2.24.0/) obtener información adicional de las canciones y/o artistas. Por ejemplo, se puede obtener el género de la canción, una sample de 30 segundos de la canción, imagen de portada para usar en las visualizaciones, etc. Ademas se puede solicitar por cada cancion un set de "audio_features" que incluye información como la _energía_, el _tempo_, y la _danceability_ de la canción entre otros. Sugerencia, no solicitar la información de todas las canciones del dataset, ya que la API de Spotify tiene un límite de requests por minuto. Solicitar solo de algunas canciones como por ejemplo las 10 canciones más escuchadas.
 
 ## Algunas consideraciones a tener en cuenta
 
@@ -68,7 +68,7 @@ El notebook debe ejecutarse sin errores y debe incluir:
 
 📅 Viernes 21 de Junio a las 23:59hs.
 
-Se debe entregar en el siguiente [Google Forms]() el Notebook con el análisis realizado.
+Se debe entregar en el siguiente [Google Forms](https://forms.gle/DRMvjAttSfymSkAH6) el Notebook con el análisis realizado.
 
 ## Referencias
 
