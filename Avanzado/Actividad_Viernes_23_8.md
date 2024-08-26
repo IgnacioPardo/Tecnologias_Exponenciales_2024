@@ -2,8 +2,9 @@
 
 Buscar y Descargar un Dataset (en formato .csv o excle), pueden buscar en Kaggle.
 Debe tener:
-- >= 4 atributos numéricos (continuos)
-- >= 4 atributos categóricos (discretos)
+- $>= 4$ atributos numéricos (continuos)
+- $>= 4$ atributos categóricos (discretos)
+- Una variable binaria a predecir 
 
 En un Notebook:
 
