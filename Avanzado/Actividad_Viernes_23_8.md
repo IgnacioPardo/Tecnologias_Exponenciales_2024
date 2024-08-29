@@ -1,4 +1,4 @@
-# Actividad Viernes 23 de Agosto
+# Actividad 22 y 23 de Agosto
 
 Buscar y Descargar un Dataset (en formato .csv o excle), pueden buscar en Kaggle.
 Debe tener:
