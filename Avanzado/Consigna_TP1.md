@@ -43,7 +43,7 @@ Recomiendo investigar la implementación de RandomForests de Scikit Learn para B
 
 📅 Viernes 20 de Septiembre a las 23:59hs.
 
-Se debe entregar en el siguiente [Google Forms](https://forms.gle/uojD9eTPsn2XyQ1A6) el Notebook con el análisis realizado.
+Se debe entregar un notebook llamado `apellido1_apellido2_apellido3_(ABD/CEF).ipynb` en el siguiente [Google Forms](https://forms.gle/uojD9eTPsn2XyQ1A6) el Notebook con el análisis realizado.
 
 ## Links Útiles
 
