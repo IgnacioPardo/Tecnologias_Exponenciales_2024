@@ -24,3 +24,4 @@ B. Explicar como se puede utilizar para resolver un problema de clasificación c
 ## Entrega
 
 La entrega consiste en un notebook de Jupyter con el código y las explicaciones correspondientes.
+Se debe hacer la entrega en el siguiente [Google Forms https://forms.gle/qNG5uVNHgRvC3BeC9](https://forms.gle/qNG5uVNHgRvC3BeC9)
