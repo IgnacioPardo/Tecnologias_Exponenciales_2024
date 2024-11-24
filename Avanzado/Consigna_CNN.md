@@ -28,4 +28,4 @@ Usando [Streamlit](https://streamlit.io/) deployar el modelo para que se pueda u
 Entregar el Notebook con toda la explicación, justificación y desarrollo del trabajo. Se evaluarán los mismos conceptos del Trabajo Práctico pasado, prolijidad y explicación del código.
 De querer compartir el dataset, integrar el link al dataset, no los datos en si, ya que se deben visualizar algunas muestras en el notebook.
 
-Link al forms para la entrega: [Google Forms]()
+Link al forms para la entrega: [Google Forms](https://forms.gle/bJ2mHJ1epxGyADK59)
